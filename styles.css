@@ -1,0 +1,97 @@
+body{
+    background-color:#101820FF;
+    margin: auto;
+    width: 1000px;
+}
+
+
+header {
+    background-color:#F2AA4CFF;
+    height:80px;
+    position: fixed;
+    top:0px;
+    left:0px;
+    right:0px;
+    vertical-align: middle;
+    text-align:center;
+   
+    
+    }
+
+
+footer{
+    
+    background-color: #F2AA4CFF;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    vertical-align: middle;
+    left: 0;
+    right: 0;
+    bottom: 0;}
+
+
+#portretnahud{
+    
+    width: 350px;
+    height: 400px;
+    
+}
+
+h2{
+    
+    color: white;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-top: 20px;
+    
+}
+
+#koleloto{
+    
+    width: 250px;
+    height: 200px; 
+}
+
+#bogorodica{
+    
+    width: 250px;
+    height: 200px;
+}
+
+#heofit{
+    
+    width: 300px;
+    height: 450px;
+    
+}
+
+#sud{
+    
+    width: 500px;
+    height: 250px;
+    
+}
+
+#descr{
+    
+    color: white;
+    text-align: center;
+}
+
+#tvorbi{
+    
+    color: white;
+    text-align: center;
+    
+}
+
+#Name{
+    
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
